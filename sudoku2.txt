@@ -1,0 +1,6 @@
+[
+  (SlotBox (SlotPos {row = I1, col = I1}) (SlotFinal I1)), (SlotBox (SlotPos {row = I1, col = I2}) (SlotFinal I2)), (SlotBox (SlotPos {row = I1, col = I3}) (SlotFinal I3)), (SlotBox (SlotPos {row = I1, col = I4}) (SlotFinal I4))
+, (SlotBox (SlotPos {row = I2, col = I1}) (SlotFinal I2)), (SlotBox (SlotPos {row = I2, col = I2}) (SlotFinal I3)), (SlotBox (SlotPos {row = I2, col = I3}) (SlotFinal I4)), (SlotBox (SlotPos {row = I2, col = I4}) (SlotFinal I1))
+, (SlotBox (SlotPos {row = I3, col = I1}) (SlotFinal I3)), (SlotBox (SlotPos {row = I3, col = I2}) (SlotFinal I4)), (SlotBox (SlotPos {row = I3, col = I3}) (SlotFinal I1)), (SlotBox (SlotPos {row = I3, col = I4}) (SlotFinal I2))
+, (SlotBox (SlotPos {row = I4, col = I1}) (Empty)), (SlotBox (SlotPos {row = I4, col = I2}) (SlotFinal I1)), (SlotBox (SlotPos {row = I4, col = I3}) (SlotFinal I2)), (SlotBox (SlotPos {row = I4, col = I4}) (SlotFinal I3))
+]
